@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace _43938442_Exam_WebApp {
+namespace _43938442_ExamProject {
     
     
     /// <summary>
@@ -892,7 +892,7 @@ namespace _43938442_Exam_WebApp {
         }
     }
 }
-namespace _43938442_Exam_WebApp.PatientDataSetTableAdapters {
+namespace _43938442_ExamProject.PatientDataSetTableAdapters {
     
     
     /// <summary>

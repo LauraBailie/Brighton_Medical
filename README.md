@@ -1,4 +1,7 @@
 Brighton Medical is a hypothetical medical practice that requires the use of a Windows Forms application for administrative use, and a web application for patient use.
+Video Demonstrations: 
+[demo1.zip](https://github.com/user-attachments/files/18588286/demo1.zip)
+[demo2.zip](https://github.com/user-attachments/files/18588298/demo2.zip)
 
 For admins:
 - Log in with Username = Brighton_Admin and Password = !@iLm3Nt$

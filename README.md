@@ -37,7 +37,7 @@ Designed for internal staff to manage operational workflows securely and efficie
 
 **Core Capabilities:**
 - View daily appointment schedules
-- Manage patient records (Create, Update, Delete)
+- Manage patient records (Create, Read, Update, Delete)
 - Add, edit, and remove appointments
 - Generate invoices linked to completed appointments
 - Structured tab-based navigation for operational clarity
